@@ -1,3 +1,5 @@
+![Midnight](https://raw.githubusercontent.com/Serendipity-Theme/assets/main/githubHeader.png)
+
 # Serendipity for Slack Channel
 Serendipity theme adapted to Linear App https://slack.app/
 
@@ -29,3 +31,4 @@ Morning:
 ### Morning
 ![Morning](https://github.com/Serendipity-Theme/slack-channel/blob/main/Morning.png?raw=true)
 
+Serendipity Theme created by [Micheal Andreuzza](https://github.com/michael-andreuzza) and ported by Mike.
